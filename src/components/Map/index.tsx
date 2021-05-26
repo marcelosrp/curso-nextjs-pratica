@@ -49,6 +49,7 @@ const Map = ({ places }: MapProps) => {
           [-180, 180],
           [180, -180]
         ]}
+        /* worldCopyJump={true} */
       >
         <CustomTileLayer />
 
