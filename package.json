@@ -42,7 +42,7 @@
     "@graphql-codegen/typescript": "1.22.0",
     "@graphql-codegen/typescript-operations": "1.17.16",
     "@testing-library/jest-dom": "^5.12.0",
-    "@testing-library/react": "^11.2.6",
+    "@testing-library/react": "^13.4.0",
     "@types/jest": "^26.0.23",
     "@types/leaflet": "^1.7.0",
     "@types/node": "^15.0.1",
